@@ -6,7 +6,7 @@ __Submission requirements:__ On or before the deadline, commit a Visual Studio 2
 ## Crypto Trading on DMITCryptEx
 _NOTE: you do not have to know anything about cryptocurrency or Ethereum to complete this assignment._
 
-[Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) (crypto) trading has become more mainstream over the past few years. [Ether](https://ethereum.org/en/) (ETH) is one of the better-known cryptocurrencies, and provides a lower-risk crypto exposure vehicle for new crypto investors. ETH is backed by a lively community and the technology used to support it can be harnessed to develop decentralized applications using the Ethereum network. However, most folks are simply interested in holding the ETH cryptocurrency as an investment that may appreciate or earn rewards from [staking](https://ethereum.org/staking) and [ETH Investment Strategies: Staking vs. Speculation](ETH%20Investment%20Strategies.%20Staking%20vs.%20Speculation.md)
+[Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) (crypto) trading has become more mainstream over the past few years. [Ether](https://ethereum.org/en/) (ETH) is one of the better-known cryptocurrencies, and provides a lower-risk crypto exposure vehicle for new crypto investors. ETH is backed by a lively community and the technology used to support it can be harnessed to develop decentralized applications using the Ethereum network. However, most folks are simply interested in holding the ETH cryptocurrency as an investment that may appreciate or earn rewards from [staking](https://ethereum.org/staking) and [ETH Investment Strategies: Staking vs. Speculation](ETH%20Investment%20Strategies.%20Staking%20vs.%20Speculation.md).
 
 The [centralized exchange](https://www.investopedia.com/tech/what-are-centralized-cryptocurrency-exchanges/) DMITCryptEx would like to explore the option of providing a CLI application for their clients to execute trades. The initial proof-of-concept will allow a client to execute a trade to purchase ETH and ,optionally, to stake their ETH. DMITCryptEx will charge clients a commission fee (varies depending on the amount of ETH they purchase) on all trades and they offer a staking reward rate of 3.1% on all staked ETH.
 
@@ -38,13 +38,16 @@ The program must allow the user to submit multiple trade requests, ending only w
 _NOTE: the repeated trade functionality of your program (i.e. the ability to choose to submit another trade request or to quit) is not shown in the sample runs below. **You will need to develop your own test plan and sample runs for the full program.**_
 
 #### Purchase and confirm
-// TODO
+![purchase and confirm](images/assign2-purchase-and-confirm.gif)
 
 #### Purchase and cancel
-// TODO
+![purchase and confirm](images/assign2-purchase-and-cancel.gif)
 
 #### Purchase, stake, and confirm
-// TODO
+![purchase and confirm](images/assign2-purchase-and-stake.gif)
+
+#### Exception Handling
+![purchase and confirm](images/assign2-exception.gif)
 
 ## Submission
 Commit and push your solution to your GitHub classroom assignment repository before the deadline. Ensure that your solution follows the best coding and style practices, as your instructor has shown you in class. Failed adherence to the prescribed style guidelines may result in lost marks. __Your program must compile; a program that fails to compile will not be graded.__
