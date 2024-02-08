@@ -38,7 +38,7 @@ The program must allow the user to submit multiple trade requests, ending only w
 _NOTE: the repeated trade functionality of your program (i.e. the ability to choose to submit another trade request or to quit) is not shown in the sample runs below. **You will need to develop your own test plan and sample runs for the full program.**_
 
 #### Purchase and confirm
-![purchase and confirm](./images/assign2-purchase-and-confirm.gif)
+![purchase and confirm](images/assign2-purchase-and-confirm.gif)
 
 #### Purchase and cancel
 ![purchase and confirm](images/assign2-purchase-and-cancel.gif)
